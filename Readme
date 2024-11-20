@@ -1,0 +1,7 @@
+1. Instalar a extensão PHP Intelephense no Visual Studio Code
+2. Baixar e instalar o XAMPP (apachefriends.org/pt_br/download.html)
+3. XAMPP Control Panel: inicializar o servidor Apache e o servidos de banco de dados MySQL
+4. Criar o BD no phpMyAdmin (localhost/phpmyadmin)
+5. mantenha o nome do projeto
+6. Os arquivos do projeto (HTML, CSS e PHP) devem estar no diretório C:\xampp\htdocs\ (pasta htdocs do seu diretório de instalação do XAMPP)
+7. Iniciar a aplicação (localhost/trabalho-faculdade/index.html)
